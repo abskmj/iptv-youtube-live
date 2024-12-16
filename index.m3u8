@@ -351,7 +351,7 @@ https://ythls-v3.onrender.com/channel/UC5KW9VowHehb_jHAhDMZpEQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Music (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/FA98Wt-W9Dnxd7YFMvUqjMI5SWGN5Ex4K2nm8pCyljcCY6bLTVZ-RiUo23CUTTUoBAiK9dlrIA", Aditya Music
 https://ythls-v3.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/NB_eR3rXbLlV-4o0iReSjJEafKBonOwze9FkzHVCfRUxDWO1sSJASibkIpCEsFOpA0Pb4vpq", adn40Mx
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/SyVGiGaBbQ7l787tcVPPra2r_t6dz_i3LcYgH-ppmBGsdUHHkUdozez-ynqNL2yEYZ7LLK7y4A", adn40Mx
 https://ythls-v3.onrender.com/channel/UC7k--FhnJzhPTrbtldMSoQQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News Ghana (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/rJ4Jxy03Qeaow861-WkgqCRwUEODqUvO-ZKj13cN_avoHP6sx8lYHC-DmF645KMJfXBrAm3R", Adom TV
@@ -5073,6 +5073,9 @@ https://ythls-v3.onrender.com/channel/UC-JAlNzIHJSQs2JY9AzBoEw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZShohViLBBYRQgFdRo-h3m1DzGE-oySiCmLgiJYAQ", Latina en VIVO
 https://ythls-v3.onrender.com/channel/UCWRNdBxB3dbvIfCoehIKHAA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/IX9ETQkAmwcZ29_stRI6lLYZbv-x5d4etTz4ywkVn1rorjXuXURgJfvkL9CdKaUjQD-TlC0MOA", Latina Noticias
+https://ythls-v3.onrender.com/channel/UCpSJ5fGhmAME9Kx2D3ZvN3Q.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/S6eqRijS6LLqtfFZU8-7o8gqo6VDsmtuGxUe2xdVwVUOCVbl_sMHlaEvKtFbt34w7uJLBzxNQw", Latino Exitos
 https://ythls-v3.onrender.com/channel/UCKfVkGXuvLY8pS-pBhyl6vA.m3u8?playlist=index
 
@@ -5942,9 +5945,6 @@ https://ythls-v3.onrender.com/channel/UCXG2TDm-8g-Yh8Q6I3GVeqg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Sports (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/9wk_1O3cXWnUmNUseduRI9QDLnSc9AcF92LrP92V8TKaVLTVWvYK5nw4TNkDJWq1-lRGGJ5LIg", mxgptv
 https://ythls-v3.onrender.com/channel/UCOlCqreTEPtLeuNu3hJhEBQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/4oK84rX4omTAdBKMDLeEU7po3NgZKQfqmVEuVGUNq2xOH0IxI6RnObbLRu5eCuEt06KwImL5", My Channel
-https://ythls-v3.onrender.com/channel/UCpSJ5fGhmAME9Kx2D3ZvN3Q.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/YVeaaw5RVBvJsPyZXSGSS3FCkiVCK9XIMqEtY6qKiCbCVIPCVANWZg3gWDw9Dl9Rvz1HFOMjXw", My Little Pony - Friendship Is Magic
 https://ythls-v3.onrender.com/channel/UC8jjgGGRytb-wFmDKp6f--w.m3u8?playlist=index

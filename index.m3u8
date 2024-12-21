@@ -8556,6 +8556,9 @@ https://ythls-v3.onrender.com/channel/UC8_LjUd3lB3pr64NDs8o4tA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/By7y3DgW6vAJEVRzzA1-xQCgklqiRyP3ZQA-u1I6kdckEryMmTK6mr7alRfklIO1Jrp2t3_A", SpongeBob SquarePants Official
 https://ythls-v3.onrender.com/channel/UCx27Pkk8plpiosF14qXq-VA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_npRbY7U5CUQD9j5Mc4i8P1Af-BTH9Hva8urcbQg0K8Geo", Spor Gecesi Digital
+https://ythls-v3.onrender.com/channel/UC9sAFnrh5Vz6CpeD9RZvF_A.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/9cQfbu1SRx7nKqTpQVMRH-v_ICKT-_8Z4eCHZszNtPjdwk9rkJOh055m4uVRzUE2D2GvSht4Mg", Sports Salta
 https://ythls-v3.onrender.com/channel/UCiYotfx3thxDDega1AYrQmw.m3u8?playlist=index
 
@@ -9675,7 +9678,7 @@ https://ythls-v3.onrender.com/channel/UCRVeQhiqhUAxRRUod7F-K3A.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/tReVccMYZtxtA3NXxJmZESbYcmZpQA6aB4Wn57dhP1wNhtER2cfvSFvPQC9dHArz_6uFA43t0g", TV Câmara Porto Alegre
 https://ythls-v3.onrender.com/channel/UC-0IsdHsbWQcZolu66jkQZQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/DxTncr9-seyPeCRywhT6aP2caF0QZDpyr6YBRxL3wPQiT7CPPZ2GVHIimLb2f-d91Tymlcedng", TV Derana LIVE
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/DD1tsDwX2L5hDMhie3R3YQd_Otl4YrRua_OUCqxlKRtVCKuLLEu2qM44-w_zs-9NTMLohMJEJg", TV Derana LIVE
 https://ythls-v3.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/a9QUn7C2MzveTcI-Z64rGeXo1Bi-kL6YULb6A4mGeFwC1yE7kIhejeFnCXTpu13kcMfa0tMzag", TV Evangelizar

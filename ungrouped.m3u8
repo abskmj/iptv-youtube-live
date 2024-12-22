@@ -1941,6 +1941,9 @@ https://ythls-v3.onrender.com/channel/UCW0zF2PSbG_AYzoF4OEVsbA.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/HtcIur2vV82gl0v3BQmSnHjaL7X1wpx4d80z3VKHhu-UNUNHMAlwo_AhoRzqU1b-a1JHXIa6sw", Desh TV LIVE
 https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/WOYAcdhjcBKQKPBI9JdWsQxeNbbXF8njzPuadN6ef3uFt9TX5TNeto4F_UkfJr8Ec9RolDD0Ri0", Desh TV News
+https://ythls-v3.onrender.com/channel/UCmCCTsDl-eCKw91shC7ZmMw.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RCvDoJkJX7HxRTuRbBOO7ax-PCaVrly5XCIxhSCu1--9JM-r85hJYOO4SEkIu6kxasDL4IjaUBQ", DGO
 https://ythls-v3.onrender.com/channel/UCqxBNDHmEZgqU1B61oc-QhQ.m3u8?playlist=ungrouped
 
@@ -5367,7 +5370,7 @@ https://ythls-v3.onrender.com/channel/UC4p81S2xY4i6lMvHu2Dx0pg.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/fhPB2UURMlAqVnRnj4cZ1LidP09tZaFc0nJEKYQ1o-y7uLmd-izg9Y_xM0mISRoj1ak9TudPJz4", Nova24TV 2
 https://ythls-v3.onrender.com/channel/UCOGseusAY1nMkEhpmmz6Mmg.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ueIRJwa3GGeduS8a1scR3WwMGlBufH1vsXBFZlTdvVIaUJ2jpIhrKgRdbYOjXGFz5Aw8qSR_SAQ", Nova24TV Slovenija
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/QdzaJdG6rYiCk9VKyFhdhJBVtj9OeysYJqHCsBoMcIx5L_2Awgy7H5TPmtOpDOtoDeJ1WQrerA", Nova24TV Slovenija
 https://ythls-v3.onrender.com/channel/UCjYCgkpX1eQCTne99oT63yA.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/4LwVnphSMvPI2BnZQi8Sx_bMuR2Q3DNHrR-LU5kjiV5nEHrvTOcH0emUIVAazy6H9UW6vpl07Q", Novasports

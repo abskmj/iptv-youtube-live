@@ -204,6 +204,9 @@ https://ythls-v3.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Zm21SEVAkjH4MXGZR_rUEITSjRTApoy4AfxbrNRqPZq2IwgrUObinkfa-mHWbhR2fuxquh2xgQ", A Haber Radyo
 https://ythls-v3.onrender.com/channel/UCoNg8fjAFdgBppbGSiQ_zGg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/6NEH0h3dFrnG36dk8lHHfocRKiz2GqiM0pzd-UeIvj_B-25aGYsB1sUUZodoD9JCgVpRt-hDGUM", A News
+https://ythls-v3.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/k8PM5lr0Vnw6-RCA0vkKgifuBiP0oyeRASufQFenTdPHNl_ILw-TXDp8MabTpc14HdhFvd5j_w", A Para
 https://ythls-v3.onrender.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8?playlist=index
 
@@ -653,9 +656,6 @@ https://ythls-v3.onrender.com/channel/UCxEgOKuI-n-WOJaNcisHvSg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2royEF2-12aexhMU1vaTZCsxzjkgs3ukTrZZnkdo5CrsWzJPJGGK472dfosfG_d_MjASjwZKzQ", Andy SixPilot
 https://ythls-v3.onrender.com/channel/UCycdLbuODd-iBKVR13zfPsg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/NU4MEqwQB1RJPRvVqhqfGVYKqn3NxdgYElqSUzzS2zt_4fXqa3RCAphtKxlOynfwTsGTmSyfVA", ANews
-https://ythls-v3.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/bsOVO66cZ3uL7zg_bYvZqWR3RRnxB8hyisZk0O-Rj-OAQj-T4WQN3wSOiI6kRRDwod4qBYx48A", ANGARA FM
 https://ythls-v3.onrender.com/channel/UCn3-6N3hVpJUFRdpoAhW_5g.m3u8?playlist=index
@@ -10778,6 +10778,9 @@ https://ythls-v3.onrender.com/channel/UCfhlZKevccETBEcAIL-D0yw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/AadZTnUJ-iWL4qudrtMcFBh0T0gyO718miNzPjfvMvwP-6AOG6ESCFbDT-tc0TXA5c7FbEjjZA", Şiir Gezer
 https://ythls-v3.onrender.com/channel/UCXYKkagp5wMPx0NF41rUzTA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_klgzghsbMO4ysEF3FbX_iptZeQtcC7Fa2NJEyJfbrbCrY", Şirinler • Türkçe
+https://ythls-v3.onrender.com/channel/UCOTtx7aofPmgcwMp8cLQKHw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GgpFLg9GtQNwdAm75GzfWirZD3Rq9W_FilD6wxcSKcjp5xid2gEEDqpWHwGm4xo8PiFP06o8bw", ʀᴀᴅʏᴏ ɢᴏ̈ᴋʏᴜ̈ᴢᴜ̈
 https://ythls-v3.onrender.com/channel/UCSh2Z5_Aj_2MdFFQ-rV2jtw.m3u8?playlist=index
